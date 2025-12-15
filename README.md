@@ -5,7 +5,7 @@ This is a repository I'm using to develop clones of known web platforms as a way
 | Project       | Techstack                                                              | Status            |
 | ------------- | ---------------------------------------------------------------------- | ----------------- |
 | Trello        | ![](https://skillicons.dev/icons?i=ts,react,tailwind,vite&theme=dark)  | 📃 To Do         
-| Github Docs        | ![](https://skillicons.dev/icons?i=)  | 📃 To Do         
+| Github Docs        | ![](https://skillicons.dev/icons?i=ts,react,tailwind,vite)  | 📃 To Do         
 
 # Suggestions
 Changes to existing code or suggestions of new projects are welcome. Create an issue following the template and it will be reviewed.
