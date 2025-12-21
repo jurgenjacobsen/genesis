@@ -5,7 +5,8 @@ This is a repository I'm using to develop clones of known web platforms as a way
 | Project       | Techstack                                                              | Status            |
 | ------------- | ---------------------------------------------------------------------- | ----------------- |
 | [Trello](https://trello.com/)        | ![](https://skillicons.dev/icons?i=ts,react,tailwind,vite,electron&theme=dark)  | 📃 To Do         
-| [Github Docs](https://docs.github.com/en)   | ![](https://skillicons.dev/icons?i=ts,react,tailwind)             | 📃 To Do         
+| [Github Docs](https://docs.github.com/en)   | ![](https://skillicons.dev/icons?i=ts,react,tailwind)             | 📃 To Do
+| [Finance Analysis]( )   | ![]()             | 📃 To Do  
 
 # Suggestions
 Changes to existing code or suggestions of new projects are welcome. Create an issue following the template and it will be reviewed.
