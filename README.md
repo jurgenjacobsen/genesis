@@ -1,5 +1,5 @@
-# Clone Army UI
-This is a repository I'm using to develop clones of known web platforms as a way of learning how to style and develop UIs.
+# Genesis
+This repository was made for storing project ideas, sketch codes and notes. Because I try to be a very organized person I've done it mostly to organize my thoughts.
 
 ## Projects
 | Project       | Techstack                                                              | Status            |
