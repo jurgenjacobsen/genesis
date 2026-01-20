@@ -9,7 +9,7 @@ This repository was made for storing project ideas, sketch codes and notes. Beca
 | [Finance Analysis]( )                       | ![](https://skillicons.dev/icons?i=dotnet,postgres)                             | New               | 📃 To Do          |
 | [Calendar App]( )                           | ![](https://skillicons.dev/icons?i=ts,react,tailwind,nestjs,mongodb)            | New               | 📃 To Do          |
 | [Library Manager]( )                        | ![](https://skillicons.dev/icons?i=go,postgres,react)                           | New               | 📃 To Do          |
-| [FlyTyrol]( )                               | ![](https://skillicons.dev/icons?i=ts,react,tailwind)                           | Reboot            | 📃 To Do          |
+| [FlyTyrol](https://www.flytyrol.com/en/)    | ![](https://skillicons.dev/icons?i=ts,react,tailwind)                           | Reboot            | 📃 To Do          |
 
 # Suggestions
 Changes to existing code or suggestions of new projects are welcome. Create an issue following the template and it will be reviewed.
